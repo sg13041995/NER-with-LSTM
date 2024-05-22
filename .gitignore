@@ -1,2 +1,4 @@
 /data/large
 /data/ner_dataset.csv
+
+/model/
